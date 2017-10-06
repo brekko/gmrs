@@ -1,0 +1,2 @@
+def test_attribute_01():
+    print "ok"
